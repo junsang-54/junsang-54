@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/82482595/119483453-f3038800-bd8f-11eb-9019-b9f03dcdf6e0.png)
+
 <!--
 **junsang-54/junsang-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
