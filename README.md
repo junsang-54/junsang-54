@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-저는 나노응용공학과를 전공하여 재료의 성질에 대해 배웠고, 이를 반도체, 배터리, 생체재료에 적용하는 공부를 했습니다. 졸업 이후 특허법인에서 기술사업화팀에서 근무했으며 특허기술들의 시장성 및 특허성 등 기술의 가치를 분석하는 업무를 했습니다. 이 업무는 수년 안에 AI기반 프로그램으로 대체될 수 있다고 생각되어 2021년 4월부터 프로그래밍 공부를 시작하여 공부하고 있습니다.
+🌱Starting learn programing 2021.04
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0504won@gmail.com)](mailto:0504won@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j___n_sang/)](https://www.instagram.com/j___n_sang/)
