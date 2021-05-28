@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 Start learning programing 2021.04
-I'm studying
+🌱 majored in Nano Applied Engineering Science
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0504won@gmail.com)](mailto:0504won@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j___n_sang/)](https://www.instagram.com/j___n_sang/)
